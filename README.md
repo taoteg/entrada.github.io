@@ -1,6 +1,3 @@
-# Core Experience Portal Documentation
+# Test GitPages Documentation
 
-_version_: 2.1.2
-
-_Codename_: Entrada  ["Entry"]
-
+_version_: 1.0.0
