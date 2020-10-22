@@ -2,6 +2,7 @@
 
 _version_: 1.0.0
 
+View documentation [here](https://taoteg.github.io/test.documentation/).
 
 ## References
 - [Pages Themes](https://github.com/pages-themes/minimal)
