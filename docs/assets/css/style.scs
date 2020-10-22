@@ -1,0 +1,7 @@
+---
+---
+
+@import "taoteg-theme-default";
+body {
+  background: #000;
+}
